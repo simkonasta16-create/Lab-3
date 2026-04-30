@@ -22,7 +22,7 @@ class NPC:
 
 
 def main():
-    # Створення масиву об'єктів
+
     npcs = [
         NPC("Aragorn", 10, 150.5, 80, "Warrior"),
         NPC("Gandalf", 20, 100.0, 95, "Mage"),

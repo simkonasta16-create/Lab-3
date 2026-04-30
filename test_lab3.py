@@ -28,7 +28,7 @@ class TestNPC(unittest.TestCase):
         self.assertEqual(actual_order, expected_order)
 
     def test_search(self):
-        target = NPC("Gandalf", 20, 100.0, 95, "Mage")
+        target = NPC("Frodo", 5, 80.0, 30, "Hobbit")
 
         found = any(npc == target for npc in self.npcs)
 
