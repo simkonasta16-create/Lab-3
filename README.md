@@ -10,7 +10,7 @@ C11 (Варіант завдання) = Визначити клас НІП (не
 
 # Документація 
 
-http://localhost:63342/PythonProject10/docs/lab3.html?_ijt=qq5hi6hgoth5ldeoi0r893ei0n&_ij_reload=RELOAD_ON_SAVE
+https://simkonasta16-create.github.io/Lab-3/lab3.html
 
 
 # Пояснення коду
